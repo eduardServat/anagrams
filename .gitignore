@@ -1,0 +1,9 @@
+*.class
+*.log
+*.idea
+.gradle
+.idea
+target/
+project/boot/
+project/plugins/project/
+
